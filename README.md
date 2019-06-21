@@ -16,6 +16,8 @@
 > + Cython
 > + progressbar
 > + scipy
+### Install
+> #### pip3 install rselector
 ## 2 .Dataset Format
 ### To start  training ,micrographs and annotations should be organized as follow format:
 > #### DatasetDirectory/
