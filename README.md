@@ -3,7 +3,7 @@
 ###
 ## 1 .Requirement
 ### Hardware
-> GPU:Nvidia GTX 1080
+> GPU:Nvidia GTX 1080 or GPU memory>7GB
 ### Python Libs:
 > + numpy
 > + tensorflow
